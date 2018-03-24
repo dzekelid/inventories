@@ -1,10 +1,11 @@
-title: Streamdata Gallery Inventory
-url: inventory.streamdata.gallery
-tag: Inventory
+title: Streamdata API Gallery - Inventories
+description: A gallery of APIs to demonstrate what is possible when it comes to making data, content, and algorithms more real time, and event-driven as part of the API economy.
+url: inventories.streamdata.gallery
+tag: Inventories
 markdown: kramdown
 exclude: [".rvmrc", ".rbenv-version", "README.md", "Rakefile", "changelog.md", ".DS_Store"]
 github_user: streamdata-gallery
-github_repo: inventory
+github_repo: inventories
 github_branch: master
 collections:
   listings:
